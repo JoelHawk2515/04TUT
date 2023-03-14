@@ -1,0 +1,3 @@
+20230314	13:10:00	04dd1443-362a-4b1c-8f87-44ac40c89634	Log event emitted!
+20230314	13:10:13	6b390e7a-ed3c-4774-ad68-100b56baf45c	Log event emitted!
+20230314	13:10:29	b7d52735-e9f5-47ea-b53b-239faa192caf	Log event emitted!
